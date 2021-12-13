@@ -1,0 +1,8 @@
+`ctrl + c` to exit
+Promise { <pending> }
+Error: Node is either not visible or not an HTMLElement
+    at ElementHandle.clickablePoint (C:\Users\HG\node\puppeteer-recaptcha-solver-master\node_modules\puppeteer\lib\cjs\puppeteer\common\JSHandle.js:339:19)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ElementHandle.click (C:\Users\HG\node\puppeteer-recaptcha-solver-master\node_modules\puppeteer\lib\cjs\puppeteer\common\JSHandle.js:392:26)
+    at async solve (C:\Users\HG\node\puppeteer-recaptcha-solver-master\index.js:81:7)
+bye!

@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-recaptcha-solver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "github:danielgatis/puppeteer-recaptcha-solver",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-stealth": "^2.7.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
